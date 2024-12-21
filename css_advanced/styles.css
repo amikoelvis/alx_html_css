@@ -180,3 +180,23 @@ hr {
     margin-top: 0;
     padding: 0;
 }
+
+.qoutes {
+    display: flex;
+    background-color: #C271FF;
+    font-family: 'Source Sans Pro' sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+    justify-content: space-between;
+    padding: 10% 10% 10% 15%;
+    align-items: center;
+}
+
+blockquote {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 22px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-align: left;
+}
