@@ -200,3 +200,91 @@ blockquote {
     font-weight: normal;
     text-align: left;
 }
+
+.tutorials > h2 {
+    color: #071629;
+    padding-top: 0%;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.tutorials > div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-left: 10%;
+    padding-right: 5%;
+}
+
+.video-cont {
+    /*flex: 1 1 1 25%;*/
+    margin: 2%;
+    width: 100%;
+    width: 22%;
+    max-width: 100vw;
+}
+
+.video-cont > h3 {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-left: 10px;
+}
+
+.video-cont > p {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #071629;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    padding-left: 10px;
+}
+
+.tutor {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.tutor > img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10%;
+    margin-bottom: 3%;
+}
+
+.tutor > h4 {
+    margin-top: 3%;
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #C271FF;
+}
+
+.fafa-p {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-right: 15%;
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #C271FF;
+}
+
+.fafa {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5%;
+}
+
+.fa-star {
+    display: flex;
+    justify-content: center;
+    margin-right: 5px;
+}
