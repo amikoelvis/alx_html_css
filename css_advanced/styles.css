@@ -342,3 +342,105 @@ blockquote {
     margin-left: 43%;
     margin-bottom: 2%;
 }
+
+.faq {
+    margin: 0;
+    padding: 0;
+}
+
+.faq > h2 {
+    color: #071629;
+    
+    margin-right: 0;
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 60px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.first-faq {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.second-faq {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.faq-one > h3 {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+}
+
+.faq-two > h3 {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+}
+
+.faq-three > h3 {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+}
+
+.faq-four > h3 {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+}
+
+.faq-one > p {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+    line-height: 1.8;
+}
+
+.faq-two > p {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+    line-height: 1.8;
+}
+
+.faq-three > p {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+    line-height: 1.8;
+}
+
+.faq-four > p {
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #071629;
+    padding: 5% 10% 0% 18%;
+    line-height: 1.8;
+}
